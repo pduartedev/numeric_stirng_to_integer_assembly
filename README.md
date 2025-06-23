@@ -56,21 +56,20 @@ conforme a convenção de chamada AMD64 (System V).
 -456
 "0”                     
 
-
 #### Tabela de Codificação ASCII:
 
 ##### Caractere  
-'0'             
-'1'             
-'3'             
-'4'             
-'5'             
-'6'             
-'7'             
-'8'             
-'9'             
+'0'
+'1'
+'3'
+'4'
+'5'
+'6'
+'7'
+'8'
+'9'
 '+'             
-'-'             
+'-'
 NULL            
 
 ##### Código ASCII
