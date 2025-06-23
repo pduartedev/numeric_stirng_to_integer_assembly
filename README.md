@@ -64,28 +64,50 @@ conforme a convenção de chamada AMD64 (System V).
 
 ##### Caractere  
 '0'
+
 '1'
+
 '3'
+
 '4'
+
 '5'
+
 '6'
+
 '7'
+
 '8'
+
 '9'
+
 '+'
+
 '-'
+
 NULL
 
 ##### Código ASCII
 48
+
 49
+
 51
+
 52
+
 53
+
 54
+
 55
+
 56
+
 57
+
 43
+
 45
+
 0
