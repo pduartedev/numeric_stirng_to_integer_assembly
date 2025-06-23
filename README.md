@@ -48,12 +48,16 @@ conforme a convenção de chamada AMD64 (System V).
 
 ##### Entrada (String)
 "123"
+
 "-456"
+
 "+789"                  
 
 ##### Saída (Inteiro)
 123
+
 -456
+
 "0”                     
 
 #### Tabela de Codificação ASCII:
@@ -68,9 +72,9 @@ conforme a convenção de chamada AMD64 (System V).
 '7'
 '8'
 '9'
-'+'             
+'+'
 '-'
-NULL            
+NULL
 
 ##### Código ASCII
 48
