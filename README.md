@@ -45,23 +45,44 @@ RDX, RSI, RDI, R8–R11) e callee-saved (ex: RBX, RBP, R12–R15)
 conforme a convenção de chamada AMD64 (System V).
 
 #### Exemplo de Entrada/Saída Esperada:
-Entrada (String)       Saída (Inteiro)
-"123"                   123
-"-456"                 -456
-"+789"                  789
-"0”                     0
+
+##### Entrada (String)
+"123"
+"-456"
+"+789"                  
+
+##### Saída (Inteiro)
+123
+-456
+"0”                     
+
 
 #### Tabela de Codificação ASCII:
-Caractere       Código ASCII
-'0'             48
-'1'             49
-'3'             51
-'4'             52
-'5'             53
-'6'             54
-'7'             55
-'8'             56
-'9'             57
-'+'             43
-'-'             45
-NULL            0
+
+##### Caractere  
+'0'             
+'1'             
+'3'             
+'4'             
+'5'             
+'6'             
+'7'             
+'8'             
+'9'             
+'+'             
+'-'             
+NULL            
+
+##### Código ASCII
+48
+49
+51
+52
+53
+54
+55
+56
+57
+43
+45
+0
