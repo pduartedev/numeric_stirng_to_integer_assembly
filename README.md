@@ -1,4 +1,4 @@
-# numeric_stirng_to_integer_assembly
+# numeric_string_to_integer_assembly
 
 # Trabalho Prático de Arquitetura e Organização de Computadores
 
