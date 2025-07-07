@@ -1,7 +1,5 @@
 # string_to_int.s
 # Implementação em Assembly AMD64 (sintaxe AT&T) para converter uma string numérica com sinal para inteiro
-# Universidade Federal de Minas Gerais
-#
 # Usa a convenção de chamada System V AMD64:
 # - Entrada: RDI = ponteiro para string terminada em null
 # - Saída: RAX = valor inteiro resultante
